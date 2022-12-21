@@ -1,0 +1,6 @@
+{
+	"appId": "it.fit.federtennis",
+	"appName": "auth-demo",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
